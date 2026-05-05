@@ -1,17 +1,12 @@
 [
   {
     "name": "IPL 2026",
-    "image": "https://i.postimg.cc/rwn28tr8/20250403-193100.png",
+   "image": "https://i.postimg.cc/3Rks8WVb/ALL-APK-TV-(15).png",
     "url": "https://cdn1.ctgiptv.com/willow-cricket/index.m3u8"
   },
   {
-    "name": "PSL 2026",
-    "image": "https://i.postimg.cc/43Zpp2gX/20260427-195733.jpg",
-    "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
-  },
-  {
     "name": "PTV Sports",
-    "image": "https://i.postimg.cc/sXpJqtm3/Ptv.png",
+    "image": "https://i.postimg.cc/50Xh4jTT/ALL-APK-TV-(14).png",
     "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8"
   },
   {
